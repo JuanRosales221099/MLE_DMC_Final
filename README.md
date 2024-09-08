@@ -1,9 +1,7 @@
-# Credit Project
+# MLE DMC Trabajo Final
 ==============================
 
-Credit Default Prediction Project
-
-To see the data dictionary, you could visit: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+Department Store Sales Prediction
 
 Project Organization
 ------------
@@ -38,5 +36,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
