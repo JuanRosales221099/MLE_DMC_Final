@@ -22,13 +22,13 @@ Se PRIORIZO la adaptación entendiendo que es un proyecto de un Data Scientist q
 
 ### Paso 1: Fork del Repositorio Original
 
-En el navegador, inicie sesión en Github. Luego, vaya al enlace del proyecto original (https://github.com/lcajachahua/model-credit) y dé click al botón "Fork". Esto copiará todo el proyecto en su usuario de Github.
+En el navegador, inicie sesión en Github. Luego, vaya al enlace del proyecto original (https://github.com/JuanRosales221099/MLE_DMC_Final) y dé click al botón "Fork". Esto copiará todo el proyecto en su usuario de Github.
 
 
 ### Paso 2: Levantar el contenedor de Python
 
 ```
-docker run -it --rm -p 8888:8888 jupyter/pyspark-notebook
+docker run -it --rm -p 8888:8888 jupyter/scipy-notebook
 ```
 
 
@@ -45,14 +45,14 @@ git config --global user.email <CORREO>
 ### Paso 4: Clonar el Proyecto desde su propio Github
 
 ```
-git clone https://github.com/<USER>/model-credit.git
+git clone https://github.com/<USER>/MLE_DMC_Final.git
 ```
 
 
 ### Paso 5: Instalar los pre-requisitos
 
 ```
-cd model-credit/
+cd MLE_DMC_Final/
 
 pip install -r requirements.txt
 ```
