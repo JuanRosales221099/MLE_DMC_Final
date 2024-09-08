@@ -10,8 +10,8 @@ Correo: juanfcorosaleskam@hotmail.es
 
 Este proyecto de Github ha sido basado en la adaptación de un notebook encontrado en un proyecto de Kaggle hacia una estructura de carpetas y scripts similar al revisado en las sesión 3.
 
-Dataset de Kaggle: https://www.kaggle.com/datasets/devashish0507/big-mart-sales-prediction/data?select=Submission.csv
-Proyecto adaptado: https://www.kaggle.com/code/ananysharma/big-mart-sales-prediction
+- Dataset de Kaggle: https://www.kaggle.com/datasets/devashish0507/big-mart-sales-prediction/data?select=Submission.csv
+- Proyecto adaptado: https://www.kaggle.com/code/ananysharma/big-mart-sales-prediction
 
 Observación: Se escogió este proyecto porque fue fácil de entender en relación a los pasos que llego para proponer sus soluciones desde el EDA, Preprocesamiento y entrenamiento de distintos modelos "básicos" sin tanto tuneo de hiperparámeteros; por lo que adaptación hacia la estructura de carpetas y scripts fuera manejable. 
 
