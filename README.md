@@ -1,5 +1,9 @@
 # Ejecución de Tests Funcionales
 
+### Alumno:
+Nombre: Juan Francisco Rosales Kam
+Correo: juanfcorosaleskam@hotmail.es
+
 ### Contexto:
 
 Este proyecto de Github ha sido basado en la adaptación de un notebook encontrado en un proyecto de Kaggle hacia una estructura de carpetas y scripts similar al revisado en las sesión 3.
